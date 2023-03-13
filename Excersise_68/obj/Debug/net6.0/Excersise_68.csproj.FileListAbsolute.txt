@@ -1,0 +1,15 @@
+D:\Users\Иван\Documents\C#\Lesson_9\Excersise_68\obj\Debug\net6.0\Excersise_68.csproj.AssemblyReference.cache
+D:\Users\Иван\Documents\C#\Lesson_9\Excersise_68\obj\Debug\net6.0\Excersise_68.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Иван\Documents\C#\Lesson_9\Excersise_68\obj\Debug\net6.0\Excersise_68.AssemblyInfoInputs.cache
+D:\Users\Иван\Documents\C#\Lesson_9\Excersise_68\obj\Debug\net6.0\Excersise_68.AssemblyInfo.cs
+D:\Users\Иван\Documents\C#\Lesson_9\Excersise_68\obj\Debug\net6.0\Excersise_68.csproj.CoreCompileInputs.cache
+D:\Users\Иван\Documents\C#\Lesson_9\Excersise_68\bin\Debug\net6.0\Excersise_68.exe
+D:\Users\Иван\Documents\C#\Lesson_9\Excersise_68\bin\Debug\net6.0\Excersise_68.deps.json
+D:\Users\Иван\Documents\C#\Lesson_9\Excersise_68\bin\Debug\net6.0\Excersise_68.runtimeconfig.json
+D:\Users\Иван\Documents\C#\Lesson_9\Excersise_68\bin\Debug\net6.0\Excersise_68.dll
+D:\Users\Иван\Documents\C#\Lesson_9\Excersise_68\bin\Debug\net6.0\Excersise_68.pdb
+D:\Users\Иван\Documents\C#\Lesson_9\Excersise_68\obj\Debug\net6.0\Excersise_68.dll
+D:\Users\Иван\Documents\C#\Lesson_9\Excersise_68\obj\Debug\net6.0\refint\Excersise_68.dll
+D:\Users\Иван\Documents\C#\Lesson_9\Excersise_68\obj\Debug\net6.0\Excersise_68.pdb
+D:\Users\Иван\Documents\C#\Lesson_9\Excersise_68\obj\Debug\net6.0\Excersise_68.genruntimeconfig.cache
+D:\Users\Иван\Documents\C#\Lesson_9\Excersise_68\obj\Debug\net6.0\ref\Excersise_68.dll
